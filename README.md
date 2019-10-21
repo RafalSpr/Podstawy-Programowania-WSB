@@ -1,1 +1,1 @@
-# Podstawy-Programowania-WSB-
+Podstawy programowania w języku Python
